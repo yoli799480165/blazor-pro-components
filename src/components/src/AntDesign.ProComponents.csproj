@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <Import Project="..\..\..\common.props" />
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\card\src\AntDesign.ProCard.csproj" />
+    <ProjectReference Include="..\..\descriptions\src\AntDesign.ProDescriptions.csproj" />
+    <ProjectReference Include="..\..\field\src\AntDesign.ProField.csproj" />
+    <ProjectReference Include="..\..\form\src\AntDesign.ProForm.csproj" />
+    <ProjectReference Include="..\..\layout\src\AntDesign.ProLayout.csproj" />
+    <ProjectReference Include="..\..\list\src\AntDesign.ProList.csproj" />
+    <ProjectReference Include="..\..\provider\src\AntDesign.ProProvider.csproj" />
+    <ProjectReference Include="..\..\skeleton\src\AntDesign.ProSkeleton.csproj" />
+    <ProjectReference Include="..\..\table\src\AntDesign.ProTable.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5017DD25-48E6-456C-9425-E8880751E4F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntDesign.ProForm", "src\AntDesign.ProForm.csproj", "{A4662C26-1B7A-4F1B-8658-7D03EADCF8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4662C26-1B7A-4F1B-8658-7D03EADCF8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4662C26-1B7A-4F1B-8658-7D03EADCF8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4662C26-1B7A-4F1B-8658-7D03EADCF8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4662C26-1B7A-4F1B-8658-7D03EADCF8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4662C26-1B7A-4F1B-8658-7D03EADCF8A7} = {5017DD25-48E6-456C-9425-E8880751E4F8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ED62613-EC46-463C-99F1-C3B8117FAE54}
+	EndGlobalSection
+EndGlobal

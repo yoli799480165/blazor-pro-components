@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5A2740F1-E60B-4561-B0CB-1ECCE3B05E46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntDesign.ProCard", "src\AntDesign.ProCard.csproj", "{80D9887A-3817-431A-BB50-117C70337638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D9887A-3817-431A-BB50-117C70337638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D9887A-3817-431A-BB50-117C70337638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D9887A-3817-431A-BB50-117C70337638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D9887A-3817-431A-BB50-117C70337638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{80D9887A-3817-431A-BB50-117C70337638} = {5A2740F1-E60B-4561-B0CB-1ECCE3B05E46}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7392F7FB-00E0-492B-83A6-36EC5E1B2D87}
+	EndGlobalSection
+EndGlobal
